@@ -1,0 +1,98 @@
+.about-container{
+    width: 100vw;
+    height: 55vh;
+    background-color: #02051b;
+}
+
+
+.white-text{
+    color: #D1CECA;
+}
+
+
+.info{
+    padding-top: 5em;
+}
+
+
+
+h2{
+    padding: 2em;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/* seccion  SErvicios */
+
+.container-servicios{
+    width: 100vw;
+    height: 100vh;
+    background-color: #02051b;
+    padding: auto;
+    margin: auto;
+}
+
+
+.center-parrafo{
+    width: 50%;
+}
+
+
+.center h2{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.card-servicio{
+    width: 300px;
+    height: 350px;
+    color: #02051b;
+    background-color: #fff;
+    margin: 1em;
+}
+
+
+.flex-colum{
+    display: flex;
+    justify-content: center;
+}
+
+
+.card-img i{
+    width: 200px;
+    height: 150px;
+    background-color: #fff;
+    color: #02051b;
+    background-size: cover;
+    font-size: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* .card-img img{
+    font-size: 1em;
+    
+} */
+
+
+.card-title{
+    height: 50%;
+    width: 100%;
+    background-color: aqua;
+}
+
+
+.card-title h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    padding: 2em;
+}
